@@ -16,4 +16,4 @@ A beautiful cherry blossom themed personal wellness dashboard built with HTML, C
 HTML · CSS · Vanilla JavaScript
 
 ## Live Demo
-[View here](your-netlify-or-github-pages-link)
+[View here](https://gayathripriyaa.github.io/Gayathri-s-Wellness-Tracker/)
